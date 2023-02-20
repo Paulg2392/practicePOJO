@@ -1,7 +1,10 @@
 package com.coderscampus;
 
 public class CreateUserPOJO {
-
+	
+	public static void main(String[] args) {
+	}
+	
 	private String username;
 	private String password;
 	private String firstName;
